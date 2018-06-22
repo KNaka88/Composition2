@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/CompositionNeuron/bin/Debug/netcoreapp2.0/CompositionNeuron.deps.json
+/Users/koji/Repositories/Csharp/CompositionNeuron/bin/Debug/netcoreapp2.0/CompositionNeuron.runtimeconfig.json
+/Users/koji/Repositories/Csharp/CompositionNeuron/bin/Debug/netcoreapp2.0/CompositionNeuron.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/CompositionNeuron/bin/Debug/netcoreapp2.0/CompositionNeuron.dll
+/Users/koji/Repositories/Csharp/CompositionNeuron/bin/Debug/netcoreapp2.0/CompositionNeuron.pdb
+/Users/koji/Repositories/Csharp/CompositionNeuron/obj/Debug/netcoreapp2.0/CompositionNeuron.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/CompositionNeuron/obj/Debug/netcoreapp2.0/CompositionNeuron.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/CompositionNeuron/obj/Debug/netcoreapp2.0/CompositionNeuron.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/CompositionNeuron/obj/Debug/netcoreapp2.0/CompositionNeuron.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/CompositionNeuron/obj/Debug/netcoreapp2.0/CompositionNeuron.dll
+/Users/koji/Repositories/Csharp/CompositionNeuron/obj/Debug/netcoreapp2.0/CompositionNeuron.pdb
